@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MADPractical7_20012021051</string>
+    <string name="clock">Clock Picture</string>
+    <string name="btn1">Create Alarm</string>
+    <string name="btn2">Cancel Alarm</string>
+    <string name="txt1" >Set Alarm</string>
+</resources>
